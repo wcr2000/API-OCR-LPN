@@ -7,3 +7,5 @@ API OCR
 เอาโปรแกรมตัวนี้ไปขึ้นบน sever แล้วลงโปรแกรม TESSERACT by google
 
 เวลาเรียกใช้ก็แค่ import requests ตามตัวอย่าง file main.py
+
+สามารถแก้ code เป็น database หลักแล้วเขียน function เก็บทุกรูปที่ผ่าน url เข้า database sever ได้
